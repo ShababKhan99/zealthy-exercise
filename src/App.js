@@ -840,14 +840,6 @@ export default function RegistrationLanding() {
               )}
             </button>
           </div>
-
-          {/* Footer */}
-          <div className="card-footer">
-            <p className="footer-text">
-              Already have an account?{' '}
-              <button className="signin-link">Sign in</button>
-            </p>
-          </div>
         </div>
       </div>
     </div>
